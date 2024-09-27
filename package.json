@@ -1,7 +1,7 @@
 {
-  "name": "New Relic Alert and Dashboard Creation Automator",
+  "name": "New Relic Automation Script Boilerplate",
   "version": "1.0.0",
-  "description": "Scripts to allow the standardized creation of alerts and dashboards in new relic",
+  "description": "Scripts to allow the standardized utilization of the Nerdgraph API",
   "main": "app.js",
   "type": "module",
   "scripts": {
