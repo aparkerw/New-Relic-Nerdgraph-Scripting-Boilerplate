@@ -4,6 +4,8 @@
 
 The purpose of this project is to provide a template to easily allow the rapid creation of scripts to programmatically manage New Relic account data.  By abstracting Nerdgraph API calls, New Relic account teams and New Relic customers can quickly achieve account and data management objectives.
 
+This code can be found on [Github here](https://github.com/aparkerw/New-Relic-Nerdgraph-Scripting-Boilerplate)
+
 
 ### Description
 
