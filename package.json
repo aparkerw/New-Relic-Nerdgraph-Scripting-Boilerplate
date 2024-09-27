@@ -1,0 +1,16 @@
+{
+  "name": "New Relic Alert and Dashboard Creation Automator",
+  "version": "1.0.0",
+  "description": "Scripts to allow the standardized creation of alerts and dashboards in new relic",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
