@@ -2,3 +2,4 @@ set_env_vars.sh
 node_modules/
 .env
 .DS_Store
+NerdGraphScriptBoilerplate.zip
