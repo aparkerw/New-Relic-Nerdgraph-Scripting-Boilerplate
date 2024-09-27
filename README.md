@@ -1,4 +1,4 @@
-# NerdGraph Script Automation Boilerplate
+# NerdGraph Automation Script Boilerplate
 
 ## Overview
 
